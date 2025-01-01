@@ -1,7 +1,7 @@
 #define ROBOT_DIAMETER 14.3
 #define WHEEL_RADIUS 4.2
 #define CELL_DISTANCE 40
-#define RPS 2.3
+#define RPS 3.2
 #define V 255
 //H Bridge Control Class
 class DCMotor {
